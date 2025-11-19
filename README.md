@@ -26,12 +26,12 @@ This lesson demonstrates how to:
 │── img/
       └── (project images)
       
-      ⭐ Project Description
+     ⭐ Project Description
 
 This project was created as part of my front-end development training.
 
 It includes:
- • A responsive Bootstrap navbar
+ • A fully responsive Bootstrap navbar
  • A hero section
  • A pricing/card grid
  • An accordion block
@@ -40,8 +40,6 @@ It includes:
 
 The main goal was to practice building responsive layouts quickly using Bootstrap components.
 
-⸻
-
 ✨ Features
  • Fully responsive layout
  • Clean Bootstrap structure
@@ -49,14 +47,10 @@ The main goal was to practice building responsive layouts quickly using Bootstra
  • Minimal custom CSS
  • Ready-to-expand layout template
 
-⸻
-
-📝 Notes
+ 📝 Notes
 
 This is a learning project built during my training course.
-It demonstrates real practice with Bootstrap components, grid, spacing utilities, and layout building.
-
-⸻
+It demonstrates real practice with Bootstrap components, grid, utilities, and layout building.
 
 👩‍💻 Author
 
