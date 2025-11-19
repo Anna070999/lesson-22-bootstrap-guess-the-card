@@ -8,6 +8,7 @@ This lesson demonstrates how to:
  • use components like navbar, cards, buttons, accordion
  • simplify styling with utility classes
  • keep CSS minimal while relying on Bootstrap’s built-in design system
+ 
  🧰 Tech Stack
  • HTML5
  • CSS3
@@ -15,6 +16,7 @@ This lesson demonstrates how to:
  • Responsive Grid System
  • Utility Classes
  • Optional JS (for small interactions)
+ 
  lesson-22/
 │── index.html        # Main page (Bootstrap layout)
 │── css/
@@ -23,6 +25,7 @@ This lesson demonstrates how to:
 │     └── script.js   # Optional JavaScript
 │── img/
       └── (project images)
+      
       ⭐ Project Description
 
 This project was created as part of my front-end development training.
